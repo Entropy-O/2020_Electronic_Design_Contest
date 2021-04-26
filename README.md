@@ -1,4 +1,4 @@
-# 2020-Electronic Design Competition Firmware
+# 2020-Electronic Design Competition Question E Firmware
  
 This Project used in Electronic design competition 2020.
 
