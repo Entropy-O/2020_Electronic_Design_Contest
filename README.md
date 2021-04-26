@@ -1,4 +1,4 @@
-# 2020-Diansai
+# 2020-Electronic Design Competition
  
 This Project used in Electronic design competition.
 
